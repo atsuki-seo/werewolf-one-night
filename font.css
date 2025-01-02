@@ -1,0 +1,41 @@
+/** https://itouhiro.hatenablog.com/entry/20130602/font **/
+
+@font-face {
+	font-family: 'PixelMplus10-Regular';
+	src: url(/fonts/PixelMplus10-Regular.ttf);
+}
+
+@font-face {
+	font-family: 'PixelMplus10-Bold';
+	src: url(/fonts/PixelMplus10-Bold.ttf);
+}
+
+@font-face {
+	font-family: 'PixelMplus12-Regular';
+	src: url(/fonts/PixelMplus12-Regular.ttf);
+}
+
+@font-face {
+	font-family: 'PixelMplus12-Bold';
+	src: url(/fonts/PixelMplus12-Bold.ttf);
+}
+
+body {
+	font-family: PixelMplus10-Regular;
+}
+
+.regular-10 {
+	font-family: PixelMplus10-Regular;
+}
+
+.bold-10 {
+	font-family: PixelMplus10-Bold;
+}
+
+.regular-12 {
+	font-family: PixelMplus12-Regular;
+}
+
+.bold-12 {
+	font-family: PixelMplus12-Bold;
+}
